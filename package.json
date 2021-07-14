@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Leomiguel19/uptask/issues"
   },
-  "homepage": "https://github.com/Leomiguel19/uptask#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/Leomiguel19/uptask#readme"
 }
